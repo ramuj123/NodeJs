@@ -18,4 +18,4 @@ spec:
       - name: nodejs
         image: 717279704293.dkr.ecr.ap-south-1.amazonaws.com/nodejs:latest
         ports:
-        - containerPort: 8000
+        - containerPort: 3000
